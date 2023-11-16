@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.DavidJava.App.dto.GameDTO;
 import com.DavidJava.App.dto.GameMinDTO;
-import com.DavidJava.App.entities.Game;
 import com.DavidJava.App.services.GameService;
 
 @RestController
